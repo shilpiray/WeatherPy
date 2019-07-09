@@ -9,3 +9,5 @@
  
 * Even the correlation between latitude and wind speed is very weak.
 * Humidity is consistently higher in the tropic but still not a strong corealtion with lattitude.
+
+ ![City_Lattitude_vs_Humidity](City_Lattitude_vs_Humidity.png)
